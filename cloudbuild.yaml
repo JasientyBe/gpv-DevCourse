@@ -4,4 +4,4 @@ steps:
 images: 
 - 'gcr.io/$PROJECT_ID/gcpdevops'
 options:
-  logging: GCS_ONLY
+  logging: CLOUD_LOGGING_ONLY 
